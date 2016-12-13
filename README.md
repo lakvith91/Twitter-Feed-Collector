@@ -10,10 +10,10 @@ Original Github Repository [Original Repository](https://github.com/gdelfresno/t
 
 ## Requirements
 
-1. Twitter App 
+1. [Twitter App](http://apps.twitter.com) 
 2. Python
-3. MongoDB
-4. Pymongo and Tweepy 
+3. [MongoDB](https://www.mongodb.com/)
+4. [Pymongo-(Python mongo)](https://github.com/mongodb/mongo-python-driver) and [Tweepy](https://github.com/tweepy/tweepy) 
 
 ## Add Twitter Hashtags, usernames, special tags
 
