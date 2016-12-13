@@ -2,11 +2,11 @@
 
 ## DESCRIPTION
 
-Special Thank goes to original publisher [Guillermo del Fresno](https://github.com/gdelfresno)
+Special Thank goes to original publisher- [Guillermo del Fresno](https://github.com/gdelfresno)
 
 Original Github Repository [Original Repository](https://github.com/gdelfresno/twitterstream-to-mongodb)
 
-Python script for collecting user defined twitter feeds and store then in MongoDB database
+##### Python script for collecting user defined twitter feeds and store then in MongoDB database
 
 ## Requirements
 
