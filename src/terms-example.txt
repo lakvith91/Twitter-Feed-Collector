@@ -5,10 +5,3 @@ FB
 AMZN
 YHOO
 NYSE
-stockmarket
-stocks
-ForexLive
-MarketWatch
-AlertTrade
-1MinuteStock
-
